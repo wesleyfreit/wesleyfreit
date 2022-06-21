@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:wesleyrichard30@gmail.com)
 
 ### Sobre Mim 
-* :school: Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPB (Ainda em progresso).
+* :school: **Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPB** (*Ainda em progresso*).
 
 ### Progresso
 
